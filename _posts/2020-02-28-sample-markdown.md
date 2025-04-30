@@ -3,6 +3,7 @@ layout: post
 title: UFC Fighter Analytics App
 subtitle: Have you ever wondered who would win in a theoretical head to head matchup? Look no further than the UFC Fighter Analytics App!
 thumbnail-img: "new-ufc-championship-title-belt.jpg"
+cover-img: "new-ufc-championship-title-belt.jpg"
 author: Noah Thompson
 ---
 
