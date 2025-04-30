@@ -105,19 +105,19 @@ share-links-active:
 url-pretty: "noaht27.github.io"
 
 # Add the website title to the title of every page
-title-on-all-pages: true
+title-on-all-pages: false
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 #edit_page_button: true
@@ -156,7 +156,7 @@ footer-hover-col: "#0085A1"
 #page-img: "IMG_8378.JPG"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
