@@ -8,7 +8,8 @@ author: Noah Thompson
 ---
 
 Check out the app at this link!
-<a href="https://drive.google.com/file/d/1ALZLCxiy_OIQ3X5xCo4sBK0P_ws9P-0M/view?usp=sharing">
+{: .box-note}
+### <a href="https://drive.google.com/file/d/1ALZLCxiy_OIQ3X5xCo4sBK0P_ws9P-0M/view?usp=sharing">
 
 **Here is some bold text**
 
