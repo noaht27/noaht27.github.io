@@ -52,6 +52,7 @@ round-avatar: true
 social-network-links:
   email: "noah27t@yahoo.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  resume: "Noah Thompson Resume.pdf"
   #facebook: deanattali
   github: noaht27
   #twitter: daattali
