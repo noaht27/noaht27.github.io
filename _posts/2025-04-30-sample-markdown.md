@@ -8,8 +8,8 @@ author: Noah Thompson
 ---
 
 {: .box-success}
-(https://drive.google.com/file/d/1ALZLCxiy_OIQ3X5xCo4sBK0P_ws9P-0M/view?usp=sharing)
-<video src="https://drive.google.com/file/d/1ALZLCxiy_OIQ3X5xCo4sBK0P_ws9P-0M/view?usp=sharing" controls></video>
+<a href="https://drive.google.com/file/d/1ALZLCxiy_OIQ3X5xCo4sBK0P_ws9P-0M/view?usp=sharing">
+<video src="https://drive.google.com/file/d/1ALZLCxiy_OIQ3X5xCo4sBK0P_ws9P-0M/view?usp=sharing" </video>
 
 **Here is some bold text**
 
