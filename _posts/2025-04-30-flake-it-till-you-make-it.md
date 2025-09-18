@@ -2,9 +2,9 @@
 layout: post
 title: Global Covid Data Statistics Evaluation
 subtitle: Covid Data Webpage
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: 1583952355.1997.jpg
+thumbnail-img: 1583952355.1997.jpg
+share-img: 1583952355.1997.jpg
 author: Noah Thompson
 ---
 This project enabled me to critically analyze COVID-19 statistics at global, national, and local levels, drawing meaningful conclusions from CDC-provided datasets. 
