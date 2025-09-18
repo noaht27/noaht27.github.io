@@ -300,7 +300,15 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  
+site-css:
+  - "https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css"
+
+site-js:
+  - "https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
 
