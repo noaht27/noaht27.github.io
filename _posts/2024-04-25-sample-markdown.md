@@ -6,11 +6,10 @@ thumbnail-img: "new-ufc-championship-title-belt.jpg"
 cover-img: "new-ufc-championship-title-belt.jpg"
 author: "Noah Thompson"
 ---
-<div style="text-align: center;">
-  
 Check out the app at this link!  
 {: .box-note}
 
+<div style="text-align: center;">
 <a  href="https://drive.google.com/file/d/1ALZLCxiy_OIQ3X5xCo4sBK0P_ws9P-0M/preview" class="glightbox" data-type="video">
     Watch UFC Fighter Analytics Video
 </a>
