@@ -4,4 +4,4 @@ title: About me
 subtitle: 
 ---
 
-My name is Noah Thompson. I am currently a sophomore studying computer science at the University of Notre Dame. I am passionate about software development and cybersecurity, as well as learning about the rapid development of AI software.
+Hi, I’m Noah Thompson, a junior studying Computer Science at the University of Notre Dame. I’m passionate about software development and cybersecurity, and I’m fascinated by the rapid advancements in artificial intelligence. Alongside my technical interests, I’m pursuing a minor in Sustainability to align my career with my lifelong commitment to protecting the environment and building a better future for everyone. Please feel free to reach out with any additional questions you may have about me personally!
