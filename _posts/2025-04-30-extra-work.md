@@ -1,9 +1,9 @@
 ---
 layout: post
-title: More to come!
-subtitle: Stay tuned
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+title: Process Queue Shell!
+subtitle: A basic shell that serves as a multi-core process queue
+cover-img: lines.png
+thumbnail-img: lines.png
 share-img: /assets/img/path.jpg
 author: Noah Thompson
 ---
